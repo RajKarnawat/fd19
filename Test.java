@@ -3,6 +3,10 @@ public class Test{
 
     System.out.println("Hello");
 
+    System.out.println("master changes");
+
+    System.out.println("dev1 changes");
+
             
 
     }
